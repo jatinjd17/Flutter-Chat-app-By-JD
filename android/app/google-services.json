@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292448886387",
+    "project_id": "jd-chat-app",
+    "storage_bucket": "jd-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292448886387:android:382cf36eb6405ba280d406",
+        "android_client_info": {
+          "package_name": "co.jd.JD_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292448886387-031357d8tjmlnqjn7qo17ul9lt5csvob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6y_FwnmN_pwtJnQgiI0aIYfiIXmUXcyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292448886387-031357d8tjmlnqjn7qo17ul9lt5csvob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
